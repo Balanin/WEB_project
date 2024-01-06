@@ -89,12 +89,6 @@
 - enjoy and not forget do donate us!
 
 
-
-# How to use documentation:
-- documentation link - http://localhost:63342/Team_project_Web/personal_assistant/docs/_build/html/index.html
-- to create/update documentation - \personal_assistant\docs>make.bat html (Windows) or \personal_assistant\docs>make html (Linux)
-
-
 # Used technologies:
 - Python 3.10
 - Django 4.2.1
